@@ -1,0 +1,23 @@
+{
+    "estudiantes": [
+        {
+        "id": 1,
+        "nombre": "Ana",
+        "apellido": "Perez",
+        "tipodoc": "Cédula de Ciudadanía",
+        "numdoc": "987654321",
+        "foto": "https://www.eltiempo.com/files/article_content/files/crop/uploads/2020/09/03/5f51bcadc5cf8.r_1599194976129.0-13-429-335.jpeg",
+        "perfil": "Inteligente, aplicada y responsable"
+        },
+        
+        {
+        "id": 2,
+        "nombre": "Juan",
+        "apellido": "Martinez",
+        "tipodoc": "Tarjeta de Identidad",
+        "numdoc": "123456789",
+        "foto": "https://www.cdc.gov/preconception/spanish/images/man-with-arms-crossed.jpg",
+        "perfil": "Responsable, proactivo, respetuoso"
+        }
+    ]
+}
